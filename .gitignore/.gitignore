@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+  int i=0,n=10;
+  for(i;i<n;i++){
+  printf("we have %d\n numbers",i);
+  }
+  return 0;
+}
